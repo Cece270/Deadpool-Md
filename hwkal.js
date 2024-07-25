@@ -5,22 +5,23 @@ const chalk = require('chalk')
 global.gr = 'https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39'
 global.ig = 'confronter._' // ubah aja
 global.email = 'confrontermfisa@gmail.com' //serah
-global.region = 'kenya' // serah
+global.region = 'Nigeria' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𝓒𝓔𝓛𝓔𝓢𝓣𝓘𝓐𝓛' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254111766934'] // ubah aja pake nomor lu
+global.owner = ['2349051769752'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
-global.botname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕2' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕2' // ubah aja ini nama sticker
-global.author = '𝐂𝐎𝐍𝐅𝐑𝐎𝐍𝐓𝐄𝐑' // ubah aja ini nama sticker
-global.prefa = ['','!','.',',','🐤','🗿']
+global.botname = '𝛧𝑈𝛧𝑈𝐿𝛪𝛥𝛮' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '𝛧𝑈𝛧𝑈𝐿𝛪𝛥𝛮' // ubah aja ini nama sticker
+global.author = '𝓒𝓔𝓛𝓔𝓢𝓣𝓘𝓐𝓛' // ubah aja ini nama sticker
+global.prefa = ['.']
 global.sessionName = 'classicsession'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.wlcm = []
 global.wlcmm = []
 global.anticall = true
+global.antivv = true
 /*
 Declaring Menu type
 

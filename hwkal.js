@@ -9,7 +9,7 @@ global.region = 'Nigeria' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = '𝓒𝓔𝓛𝓔𝓢𝓣𝓘𝓐𝓛' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['2349051769752'] // ubah aja pake nomor lu
+global.owner = ['447341776968'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
 global.botname = '𝛧𝑈𝛧𝑈𝐿𝛪𝛥𝛮' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '𝛧𝑈𝛧𝑈𝐿𝛪𝛥𝛮' // ubah aja ini nama sticker
@@ -17,7 +17,7 @@ global.author = '𝓒𝓔𝓛𝓔𝓢𝓣𝓘𝓐𝓛' // ubah aja ini nama stic
 global.prefa = ['.']
 global.sessionName = 'classicsession'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
-global.autoviewstatus = process.env.autoviewstatus || "TRUE"
+global.autoviewstatus = process.env.autoviewstatus || "false"
 global.wlcm = []
 global.wlcmm = []
 global.anticall = true
